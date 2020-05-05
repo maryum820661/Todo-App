@@ -1,6 +1,6 @@
 ## Todo-App(Vue.js and Quasar.js)
 
-first todo app
+First Todo app build using Vue.js and Quasar.js
 
 ## Install the dependencies
 ```bash
